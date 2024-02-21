@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**VictorDutraa/victordutraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/victordutraa">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordutraa&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victordutraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+  <img  title="C language" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height: 50px; width: 50px;" />
+  <img title="JavaScript language" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  style="height: 50px; width: 50px;"/>
+  <img title="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 50px; width: 50px;" />
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 50px; width: 50px;" />
+  <img title="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="height: 50px; width: 50px;"/>
+  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="height: 50px; width: 50px;"/>                       
+</div>          
+
+![Snake animation](https://github.com/victordutraa/victordutraa/blob/output/github-contribution-grid-snake.svg)

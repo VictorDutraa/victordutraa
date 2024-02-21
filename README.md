@@ -1,6 +1,6 @@
-### Hi there 👋
 
-## Tecnologias
+
+
 
 <div>
   <a href="https://github.com/victordutraa">
@@ -8,6 +8,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victordutraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Tecnologias
 <div style="display: flex;">
   <img  title="C language" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height: 50px; width: 50px;" />
   <img title="JavaScript language" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  style="height: 50px; width: 50px;"/>

@@ -18,4 +18,4 @@
   <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="height: 50px; width: 50px;"/>                       
 </div>          
 
-![Snake animation](https://github.com/victordutraa/victordutraa/blob/output/github-contribution-grid-snake.svg)
+
